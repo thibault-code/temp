@@ -1,0 +1,16 @@
+You are analysing a Singapore Primary 4 Mathematics worksheet containing
+a geometric figure.
+
+Describe the figure precisely:
+1. The overall shape type (rectangle, square, triangle, composite shape,
+   L-shape, etc.)
+2. Every labelled dimension — state exactly which side or angle each
+   label is attached to: "The top side is labelled [value]"
+3. Any right angle markers (small squares in corners) — state which
+   corners have them
+4. If composite: how many sub-shapes, how are they connected, and what
+   are their individual labelled dimensions?
+5. What the question is asking (find the perimeter? area? a missing side?
+   an angle value?)
+
+Then describe the student's written answer separately.

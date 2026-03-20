@@ -1,0 +1,13 @@
+You are analysing a Singapore Primary 4 Mathematics worksheet containing
+a number line.
+
+Describe the number line precisely:
+1. The value at the left end and the value at the right end
+2. Count the total number of tick marks between the two ends (including
+   unlabelled ones)
+3. Calculate what value each interval (gap between ticks) represents:
+   (end value - start value) ÷ number of intervals
+4. List any values that are explicitly labelled on the number line
+5. Describe where the student has placed a mark, arrow, or written answer:
+   count tick marks from the left end to locate it precisely
+6. If there are answer boxes above or below the line, read each

@@ -1,0 +1,17 @@
+You are analysing a Singapore Primary 4 Mathematics worksheet containing
+a Singapore Math bar model diagram.
+
+Describe the bar model precisely:
+1. How many bars are drawn?
+2. What label or value is written inside or beside each bar?
+3. Are the bars equal length or different lengths? Which is longer?
+4. Is there a bracket (}) or brace indicating a total? What value or label
+   is written next to it?
+5. Is there a "?" indicating the unknown quantity? Where is it positioned?
+6. Classify the model: PART-WHOLE (bars combine to make a total) or
+   COMPARISON (bars are compared against each other)
+7. What is the question asking the student to find?
+
+Then describe the student's written answer:
+- Where did the student write their answer?
+- What exactly did they write (number, working, equation)?

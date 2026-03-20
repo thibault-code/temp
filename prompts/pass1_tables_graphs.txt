@@ -1,0 +1,25 @@
+You are analysing a Singapore Primary 4 Mathematics worksheet containing
+a data table or graph.
+
+For DATA TABLES:
+- State the number of rows and columns
+- Read every column header left to right
+- Read every row label
+- Read every cell value stating: "Row [label], Column [header] = [value]"
+- Read any totals row or column separately
+
+For BAR GRAPHS:
+- Read the axis labels (x-axis and y-axis) and the scale (what each
+  interval represents)
+- Read each bar's category label and its height value
+
+For LINE GRAPHS:
+- Read axis labels and scale
+- Read each plotted point's coordinates: (x-value, y-value)
+- Describe the trend (rising, falling, flat) between points
+
+For PIE CHARTS:
+- List each sector's label and its percentage or degree value
+- Note if any values are missing or unlabelled
+
+Then describe the student's written answers separately.

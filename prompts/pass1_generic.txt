@@ -1,0 +1,15 @@
+You are analysing a Singapore Primary 4 Mathematics worksheet.
+
+Describe EVERYTHING you see in this image in precise detail:
+- All printed text: questions, instructions, labels, numbers
+- All handwritten content: the student's answers, working, marks, corrections
+- All diagrams: describe their type, elements, spatial layout, and any numbers or labels
+- All tables: describe structure, headers, and every cell value
+- Spatial relationships: what is positioned where relative to what
+
+CRITICAL: When both a printed diagram AND a handwritten answer are present in the
+same question, describe them separately and explicitly. State:
+"Printed diagram shows: [value]" and "Student has written: [value]"
+Never merge or average these — they may intentionally differ.
+
+Be exhaustive. Do not interpret or solve — only describe what you see.

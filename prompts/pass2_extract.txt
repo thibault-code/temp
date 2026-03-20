@@ -1,0 +1,31 @@
+Based on this description of a Singapore Primary 4 Mathematics worksheet:
+
+{{DESCRIPTION}}
+
+Extract the following as JSON only — no explanation, no markdown, no code fences:
+
+{
+  "extraction_failed": false,
+  "failure_reason": null,
+  "questions": [
+    {
+      "question_number": "1a",
+      "question_text": "exact question as described",
+      "visual_elements": "describe any diagrams or tables that are part of the question",
+      "student_answer": "everything the student wrote as their answer or working",
+      "can_read": true,
+      "read_error": null,
+      "confidence": "high"
+    }
+  ]
+}
+
+Rules:
+- student_answer must reflect what the student WROTE, not what the diagram shows
+- When a student answer appears in multiple forms (e.g. word form AND expanded notation), capture ALL forms in student_answer — do not collapse to one form only. Separate with ' / '. Example: '6 ten thousands 4 thousands 0 hundreds 7 tens 3 ones / = 60000 + 4000 + 70 + 3 = 64073'
+- If a student crossed out a value and wrote a correction, preserve BOTH. Use the format: '~~crossed_value~~ correction'. Do not discard the crossed-out value or treat only the correction as the answer. Example: '~~830507~~ 83507'
+- confidence is "high" if clearly readable, "medium" if partially unclear, "low" if mostly guessing
+- can_read is false if a question or answer is too unclear — set read_error to explain why
+- extraction_failed is true only if the entire image is unreadable
+- Return one object per question part (1a, 1b, 2a etc.)
+- Do not solve or assess correctness — only extract what is printed and what the student wrote
