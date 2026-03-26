@@ -1,0 +1,277 @@
+worksheet_id,question_number,element_type,element_description,student_response,correct_answer,is_correct,notes
+IMG_0792.JPG,1 (a),Place value charts,"A table with five columns and one row. Each cell of the table contains circles representing coins. Each coin has a value writen on it, related to its place value within the table. The first column on the left represents the ten thousands, the second column represents the thousands, the third column represents the hunderds , the fourth column represents the tens the fifth columns represents the ones. For example, each coin in the first column, the ten-thousands, has a value on 10000. In this exercise:
+column one contains 2 coins
+column two contains 5 coins
+column three contains 1 coin
+column four contains 6 coins
+column five contains 9 coins",3 ten thousands 5 thousands 1 hundred 6 tens 9 ones,2 ten thousands 5 thousands 1 hundred 6 tens 9 ones,FALSE,Student miscounted ten-thousands column — read 3 coins instead of 2
+IMG_0792.JPG,1 (a),Pure text,3 ten thousands 5 thousands 1 hundred 6 tens 9 ones,= 30000 + 5000 + 100 + 60 + 9 = 35169,,TRUE,
+IMG_0792.JPG,1 (b),Place value charts,"A table with five columns and one row. Each cell of the table contains circles representing coins. Each coin has a value writen on it, related to its place value within the table. The first column on the left represents the ten thousands, the second column represents the thousands, the third column represents the hunderds, the fourth column represents the tens the fifth columns represents the ones. For example, each coin in the first column, the ten-thousands, has a value on 10000. In this exercise:
+column one contains 4 coins
+column two contains 0 coins
+column three contains 8 coin
+column four contains 2 coins
+column five contains 5 coins",4 ten thousands 0 thousands 8 hundred 2 tens 5 ones,,TRUE,
+IMG_0792.JPG,1 (b),Pure text,4 ten thousands 0 thousands 8 hundred 2 tens 5 ones,= 40000 + 800 + 20 + 5 = 40825,,TRUE,
+IMG_0793.JPG,1 (c),Place value charts,"A table with five columns and one row. Each cell of the table contains circles representing coins. Each coin has a value writen on it, related to its place value within the table. The first column on the left represents the ten thousands, the second column represents the thousands, the third column represents the hunderds, the fourth column represents the tens the fifth columns represents the ones. For example, each coin in the first column, the ten-thousands, has a value on 10000. In this exercise:
+column one contains 6 coins
+column two contains 4 coins
+column three contains 0 coin
+column four contains 7 coins
+column five contains 3 coins",6 ten thousands 4 thousands 0 hundred 7 tens 3 ones,,TRUE,
+IMG_0793.JPG,1 (c),Pure text,6 ten thousands 4 thousands 0 hundred 7 tens 3 ones,= 60000 + 4000+ 70 + 3 = 64073,,TRUE,
+IMG_0793.JPG,1 (d),Place value charts,"A table with five columns and one row. Each cell of the table contains circles representing coins. Each coin has a value writen on it, related to its place value within the table. The first column on the left represents the ten thousands, the second column represents the thousands, the third column represents the hunderds, the fourth column represents the tens the fifth columns represents the ones. For example, each coin in the first column, the ten-thousands, has a value on 10000. In this exercise:
+column one contains 8 coins
+column two contains 3 coins
+column three contains 5 coin
+column four contains 0 coins
+column five contains 7 coins",8 ten thousands 3 thousands 5 hundred 0 tens 7 ones,,TRUE,
+IMG_0793.JPG,1 (d),Pure text,8 ten thousands 3 thousands 5 hundred 0 tens 7 ones,"= 80000 + 3000+ 500 + 7 = 830,507","= 80000 + 3000+ 500 + 7 = 83,507",FALSE,
+IMG_0793.JPG,2 (a),Pure text,17 thousands 8 ones,"170,008","17,008",FALSE,
+IMG_0793.JPG,2 (b),Pure text,60 thousands 2 tens 9 ones,"60,029",,TRUE,
+IMG_0793.JPG,2 (c),Pure text,Fifty-eight thousands and three hundreds,"58,300",,TRUE,
+IMG_0794.JPG,2 (d),Pure text,"Thirty thousands, six hundreds and eighty","30,680",,TRUE,
+IMG_0794.JPG,2 (e),Pure text,ninety-four thousands and seventy-three,"94,073",,TRUE,
+IMG_0794.JPG,2 (f),Pure text,sixty thousands and sixty,"6,060","60,060",FALSE,
+IMG_0794.JPG,3 (a),Pure text,20417,"twenty thousands, four hundred and seventeen.",,TRUE,
+IMG_0794.JPG,3 (b),Pure text,45630,"fourty five thousands, six hundred and thirty.","forty five thousands, six hundred and thirty.",FALSE,"This is a spelling mistakes. In this case, the exercise is testing the ability of the student to write numbers in words."
+IMG_0794.JPG,3 (c),Pure text,61905,"sixty one thousand, nine hundred and five",,TRUE,
+IMG_0794.JPG,3 (d),Pure text,50708,"fivety thousand, seve hundred and eight","fifty thousand, seven hundred and eight",FALSE,"This is a spelling mistakes. In this case, the exercise is testing the ability of the student to write numbers in words."
+IMG_0794.JPG,3 (e),Pure text,80090,"eighty thousand, and ninety",,TRUE,
+IMG_0794.JPG,3 (f),Pure text,79006,"sevety nine thousand, and six","seventy nine thousand, and six",FALSE,"This is a spelling mistakes. In this case, the exercise is testing the ability of the student to write numbers in words."
+IMG_0795.JPG,4 (a),Pure text,60000 + 3000 + 800 + 23 + 4 = _,"63,824",,TRUE,An underscore in the element description is a placeholder for the student to fill in the blank.
+IMG_0795.JPG,4 (b),Pure text,50000 + 100 + 70 = _,"50,170",,TRUE,
+IMG_0795.JPG,4 (c),Pure text,42930 = _ + 2000 + 900 + 30,40000,,TRUE,
+IMG_0795.JPG,4 (d),Pure text,30682 = 30000 + _ + 80 - 2,600,,TRUE,
+IMG_0795.JPG,4 (e),Pure text,_ = 80000 + 2000 + 600 + 4,"82,604",,TRUE,
+IMG_0795.JPG,4 (f),Pure text,_ = 90000 + 700 + 50,"90,750",,TRUE,
+IMG_0795.JPG,5 (a) line 1,Pure text,"In 52180, the digit 1 is in the _ place;",hundred,hundreds,FALSE,"- Question 5 (a) contains multiple sub-questions.
+In the question_number field, each question is identified by a line number such as ""5 (a) line 1"".
+The second question in the 5 (a) exercise is identfied as ""5 (a) line 2"".
+Both questions 5 (a) and 5 (b) of image IMG_0795.JPG are structured as such.
+
+- The fild s_correct is FALSE basecuse the student correctly identfied the place value but misspelled it.
+It should be categoriesed as a spelling error instead of a place value error."
+IMG_0795.JPG,5 (a) line 2,Pure text,the digit 0 is in the _ place;,ones,,TRUE,
+IMG_0795.JPG,5 (a) line 3,Pure text,the value of the digit 5 is _ ;,50000,,TRUE,
+IMG_0795.JPG,5 (a) line 4,Pure text,the value of the digit 8 is _ ;,80,,TRUE,
+IMG_0795.JPG,5 (a) line 5,Pure text,the digit 2 stands for _ .,2000,,TRUE,
+IMG_0795.JPG,5 (b) line 1,Pure text,"In 90643, the digit 0 is in the _ place;",thousand,thousands,FALSE,"- The fild s_correct is FALSE basecuse the student correctly identfied the place value but misspelled it.
+It should be categoriesed as a spelling error instead of a place value error."
+IMG_0795.JPG,5 (b) line 2,Pure text,the digit 3 is in the _ place;,ones,,TRUE,
+IMG_0795.JPG,5 (b) line 3,Pure text,the value of the digit 6 is _ ;,600,,TRUE,
+IMG_0795.JPG,5 (b) line 4,Pure text,the value of the digit 9 is _ ;,90000,,TRUE,
+IMG_0795.JPG,5 (b) line 5,Pure text,the digit 4 stands for _ .,40,,TRUE,
+IMG_0796.JPG,6 (a),Tables / graphs,"A table with 6 columns and 3 row.
+Column 1 represents two numbers to compare.
+Column 2 represents the Ten Thousands place value for each number.
+Column 3 represents the Thousands place value for each number.
+Column 4 represents the Hundreds place value for each number.
+Column 5 represents the Tens place value for each number.
+Column 6 represents the Ones place value for each number.","57046
+60470",,TRUE,
+IMG_0796.JPG,6 (a),Pure text,57046 _ 60470,<,,TRUE,An underscore in the element description is a placeholder for the student to fill in the blank.
+IMG_0796.JPG,6 (b),Tables / graphs,"A table with 6 columns and 3 row.
+Column 1 represents two numbers to compare.
+Column 2 represents the Ten Thousands place value for each number.
+Column 3 represents the Thousands place value for each number.
+Column 4 represents the Hundreds place value for each number.
+Column 5 represents the Tens place value for each number.
+Column 6 represents the Ones place value for each number.","89316
+89127",,TRUE,
+IMG_0796.JPG,6 (b),Pure text,89310 _ 89127,>,,TRUE,
+IMG_0796.JPG,6 (c),Pure text,25130 _ 19666,>,,TRUE,
+IMG_0796.JPG,6 (d),Pure text,48707 _ 48705,>,,TRUE,
+IMG_0796.JPG,6 (e),Pure text,30519 _ 39150,<,,TRUE,
+IMG_0796.JPG,6 (f),Pure text,54023 _ 53420,<,,TRUE,
+IMG_0796.JPG,6 (g),Pure text,65237 _ 65327,<,,TRUE,
+IMG_0796.JPG,6 (h),Pure text,72355 _ 72329,>,,TRUE,
+IMG_0796.JPG,6 (i),Pure text,85110 _ 85093,>,,TRUE,
+IMG_0796.JPG,6 (j),Pure text,91438 _ 91450,<,,TRUE,
+IMG_0797.JPG,7 (a),Number lines,A line representing numbers between 27000 and 28000 with 3 boxes for the student to write answers. The line is graduated in increments of 100 per tick mark.,27200 27600 27900,,TRUE,
+IMG_0797.JPG,7 (a),Pure text,The smallest number is _ .,27200,,TRUE,
+IMG_0797.JPG,7 (a),Pure text,The greatest number is _ .,27900,,TRUE,
+IMG_0797.JPG,7 (a),Pure text,"Arrange the numbers in increasing order: _ , _ , _ .","27200, 27600, 27900",,TRUE,
+IMG_0797.JPG,7 (b),Number lines,"A line representing numbers between 63400, 63450, 63500, and 63550 with 3 boxes for the student to write answers. The line is graduated in increments of 10 per tick mark.",63418 63495 63540,,TRUE,
+IMG_0797.JPG,7 (b),Pure text,The smallest number is _ .,63418,,TRUE,
+IMG_0797.JPG,7 (b),Pure text,The greatest number is _ .,63540,,TRUE,
+IMG_0797.JPG,7 (b),Pure text,"Arrange the numbers in decreasing order: _ , _ , _ .","63540, 63495, 63418 ",,TRUE,
+IMG_0800.JPG,9 (a),Number lines,"A number line represents numbers between 70 and 80, with a 75 mark in between.
+The line is graduated in increments of 1 per tick mark. 
+Two boxes aboves the line show the location of two numbers (73 and 78) on the line.
+
+The student must round 73 and 78 to the nearest ten:
+73 ≈ _
+78 ≈ _","70, 80",,TRUE,Instructions: Round each number to the nearest ten.
+IMG_0800.JPG,9 (b),Number lines,"A number line represents numbers between 410 and 420, with a 415 mark in between.
+The line is graduated in increments of 1 per tick mark. 
+Two boxes aboves the line show the location of two numbers (415 and 419) on the line.
+
+The student must round 415 and 419 to the nearest ten:
+415 ≈ _
+419 ≈ _","420, 420",,TRUE,Instructions: Round each number to the nearest ten.
+IMG_0800.JPG,9 (c),Number lines,"A number line represents numbers between 2380 and 2390, with a 2385 mark in between.
+The line is graduated in increments of 1 per tick mark. 
+Two boxes aboves the line show the location of two numbers (2380 and 2390) on the line.
+
+The student must round 2380 and 2390 to the nearest ten:
+2380 ≈ _
+2390 ≈ _","2380, 2390",,TRUE,Instructions: Round each number to the nearest ten.
+IMG_0800.JPG,9 (d),Pure text,"92 ≈ _
+515 ≈ _","90
+520",,TRUE,Instructions: Round each number to the nearest ten.
+IMG_0800.JPG,9 (e),Pure text,"3205 ≈ _
+6833 ≈ _","3210
+6830",,TRUE,Instructions: Round each number to the nearest ten.
+IMG_0800.JPG,9 (f),Pure text,"28914 ≈ _
+70196 ≈ _","28910
+70200",,TRUE,Instructions: Round each number to the nearest ten.
+IMG_0804.JPG,2 (a),Pure text,"1, 2, 0, 3, 4
+The greatest 5-digit odd number is _ .",43201,,TRUE,
+IMG_0804.JPG,2 (b),Pure text,"7, 4, 6, 3, 5
+The greatest 5-digit even number is _ .",76534,,TRUE,
+IMG_0804.JPG,2 (c),Pure text,"5, 8, 2, 9, 0
+The greatest 5-digit odd number is _ .",98529,,TRUE,
+IMG_0804.JPG,2 (d),Pure text,"9, 4, 7, 3, 5
+The greatest 5-digit even number is _ .",35744,,TRUE,
+IMG_0805.JPG,3 (a),Tables / graphs,A table with 4 columns and 2 rows. Row one contains numbers and row two is for the student to place a tick under the correct number.,"tick mark : (column: 3, value: 36067)",,TRUE,The tick (v) in row 2 shows which number in row one is the correct answer.
+IMG_0805.JPG,3 (b),Tables / graphs,A table with 4 columns and 2 rows. Row one contains numbers and row two is for the student to place a tick under the correct number.,"tick mark : (column: 1, value: 73470)",,TRUE,
+IMG_0805.JPG,3 (c),Tables / graphs,A table with 4 columns and 2 rows. Row one contains numbers and row two is for the student to place a tick under the correct number.,"tick mark : (column: 4, value: 50028)",,TRUE,
+IMG_0825.JPG,1 (a),Pure text,1439 x 2 = _,2860,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (a),Column arithmetic,"  1 4 3 0
+x       2
+---------
+_",2860,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (b),Pure text,4 x 2100 = _,8400,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (b),Column arithmetic,"  2 1 0 0
+x       4
+---------
+_",8400,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (c),Pure text,6312 x 3 = _,18936,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (c),Column arithmetic,"  6 3 1 2
+x       3
+---------
+_",18936,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (d),Pure text,5 x 1804 = _,9020,,TRUE,Single-digit multiplier
+IMG_0825.JPG,1 (d),Column arithmetic,"  1 8 0 4
+x       5
+---------
+_",9020,,TRUE,Single-digit multiplier
+IMG_0827.JPG,2 (a),Column arithmetic,"Find the product.
+3140 and 2","  3 1 4 0
+x       2
+---------
+  6 2 8 0",,TRUE,"Single-digit multiplier.
+Numbers carried over writen by the student have been excluded from the answer because they are hard to illustrate."
+IMG_0827.JPG,2 (b),Column arithmetic,"Find the product.
+2706 and 5","  2 7 0 6
+x       5
+-----------
+1 3 5 3 0",,TRUE,Single-digit multiplier
+IMG_0827.JPG,2 (c),Column arithmetic,"Find the product.
+1876 and 3","  1 8 7 6
+x       3
+---------
+  5 6 2 8",,TRUE,Single-digit multiplier
+IMG_0827.JPG,2 (d),Column arithmetic,"Find the product.
+6 and 2384","  2 3 8 4
+x       6
+---------
+1 4 3 0 4",,TRUE,Single-digit multiplier
+IMG_0827.JPG,2 (e),Column arithmetic,5362 and 7,"  5 3 6 2
+x       7
+---------
+3 7 5 3 4",,TRUE,Single-digit multiplier
+IMG_0827.JPG,2 (f),Column arithmetic,"Find the product.
+8 and 9546","  9 5 4 6
+x       8
+---------
+7 6 3 6 8",,TRUE,Single-digit multiplier
+IMG_0829.JPG,4 (a),Column arithmetic,32 x 12 = _,"384
+
+    3 2
+x   1 2
+---------
+    6 4
++ 3 2 0
+---------
+  3 8 4",,TRUE,Two-digit multiplier
+IMG_0829.JPG,4 (b),Column arithmetic,14 x 51 = _,"714
+
+    5 1
+x   1 4
+---------
+  2 0 4
++ 5 1 0
+---------
+  7 1 4",,TRUE,Two-digit multiplier
+IMG_0829.JPG,4 (c),Column arithmetic,97 x 11 = _,"1067
+
+    9 7
+x   1 1
+---------
+    9 7
++ 9 7 0
+---------
+1 0 6 7",,TRUE,Two-digit multiplier
+IMG_0829.JPG,4 (d),Column arithmetic,23 x 62 = _,"1486
+
+      6 2
+x     2 3
+---------
+    2 4 6
++ 1 2 4 0
+---------
+  1 4 8 6","1486
+
+      6 2
+x     2 3
+---------
+    1 8 6
++ 1 2 4 0
+---------
+  1 4 8 6",FALSE,Two-digit multiplier
+IMG_0829.JPG,4 (e),Column arithmetic,45 x 27 = _,"1215
+
+      4 5
+x     2 7
+---------
+    3 1 5
++   9 0 0
+---------
+  1 2 1 5",,TRUE,Two-digit multiplier
+IMG_0829.JPG,4 (f),Column arithmetic,36 x 74 = _,"2664
+
+      7 4
+x     3 6
+---------
+    4 4 4
++ 2 2 2 0
+---------
+  2 6 6 4",,TRUE,Two-digit multiplier
+IMG_1052.JPG,2(a),Number lines,"Write the mixed number represented by each letter.
+Line representing number between 1 and 3.","1 1/3
+2 2/3","1 1/3
+2 2/3",TRUE,The student must write two mixed number fractions by find the value of A and B along the line.
+IMG_1052.JPG,2(b),Number lines,"Write the mixed number represented by each letter.
+Line representing number between 3 and 5.","3 4/5
+4 1/5","3 4/5
+4 1/5",TRUE,The student must write two mixed number fractions by find the value of C and D along the line.
+IMG_1052.JPG,2(c),Number lines,"Write the mixed number represented by each letter.
+Line representing number between 2 and 4.","2 1/6
+3 5/6","2 1/6
+3 5/6",TRUE,The student must write two mixed number fractions by find the value of E and F along the line.
+IMG_1052.JPG,2(d),Number lines,"Write the mixed number represented by each letter.
+Line representing number between 4 and 6.","4 3/7
+5 4/7","4 3/7
+5 4/7",TRUE,The student must write two mixed number fractions by find the value of G and H along the line.
+IMG_1053.JPG,3(a),Tables / graphs,"Three rectangular shapes represnting whole and parts containing shaded areas. The two first rectangles are whole (fully shaded), and the third is split into 6 parts (4 parts shaded, 2 part unshaded).
+2 4/6 =",2 2/3,2 2/3,TRUE,
+IMG_1053.JPG,3(b),Tables / graphs,"Four circular shapes represnting whole and parts containing shaded areas. The three first circles are whole (fully shaded), and the fourth is split into 8 parts (4 parts shaded, 4 part unshaded).
+3 4/8 = ",3 1/2,3 1/2,TRUE,
+IMG_1053.JPG,3(c),Pure text,1 3/9 = ,1 1/3,1 1/3,TRUE,
+IMG_1053.JPG,3(d),Pure text,2 5/10 = ,2 1/5,2 1/2,FALSE,The student correctly tried to convert 2 5/10 to its simplest form but made a mistake when calcuating the new denominator (5 instead of 2).
+IMG_1053.JPG,3(e),Pure text,3 6/8 = ,3 3/4,3 3/4,TRUE,
+IMG_1053.JPG,3(f),Pure text,4 8/10 = ,4 4/5,4 4/5,TRUE,
+IMG_1053.JPG,3(g),Pure text,5 9/12 = ,5 3/4,5 3/4,TRUE,
+IMG_1053.JPG,3(h),Pure text,6 8/12 = ,6 2/3,6 2/3,TRUE,
